@@ -2,8 +2,6 @@
 #include <stdio.h>
 #include <string.h>
 
-//op
-
 void error_message() {
     printf("Syntax error\n");
 }
